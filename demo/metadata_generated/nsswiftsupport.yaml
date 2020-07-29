@@ -1,0 +1,39 @@
+---
+Module:          
+  FullName:        nsswiftsupport
+  IsPartOfFramework: false
+  IsSystemModule:  false
+  Libraries:       []
+Items:           
+  - Name:            _TtC4demo10SimpleTest
+    JsName:          SimpleTest
+    DemangledName:   demo.SimpleTest
+    Filename:        '/Users/nathanael/Library/Developer/Xcode/DerivedData/demo-arxbaayynbeqcgbjgtzdzyfiawrb/Build/Intermediates.noindex/demo.build/Debug-iphonesimulator/demo.build/Objects-normal/i386/demo-Swift.h'
+    Module:          
+      FullName:        nsswiftsupport
+      IsPartOfFramework: false
+      IsSystemModule:  false
+      Libraries:       []
+    Flags:           [ IsIosAppExtensionAvailable ]
+    Type:            Interface
+    InstanceMethods: 
+      - Name:            announce
+        JsName:          announce
+        Filename:        '/Users/nathanael/Library/Developer/Xcode/DerivedData/demo-arxbaayynbeqcgbjgtzdzyfiawrb/Build/Intermediates.noindex/demo.build/Debug-iphonesimulator/demo.build/Objects-normal/i386/demo-Swift.h'
+        Module:          
+          FullName:        nsswiftsupport
+          IsPartOfFramework: false
+          IsSystemModule:  false
+          Libraries:       []
+        Flags:           [ IsIosAppExtensionAvailable ]
+        Type:            Method
+        Signature:       
+          - Type:            Interface
+            Name:            NSString
+            WithProtocols:   []
+    StaticMethods:   []
+    InstanceProperties: []
+    StaticProperties: []
+    Protocols:       []
+    Base:            NSObject
+...
